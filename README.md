@@ -9,7 +9,7 @@
 
 `\object_centric_bench\datum\dataset_saycam.py`
 
-Also some modification in related files.
+Also some modifications in related files.
 
 ## Experimet
 
@@ -40,4 +40,3 @@ python train.py \
 
 1. Visuliaztion could be worse when using larger max_slots.
 2. The visulization of slots not quite capture the specific objects in some samples.
-3. 
