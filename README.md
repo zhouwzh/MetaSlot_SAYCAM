@@ -1,7 +1,15 @@
 
-# MetaSlot: Break Through the Fixed Number of Slots in Object-Centric Learning
+## This is my personal implementation of using MetaSlot method on SAYCAM, a naturalistic egocentric dataset.
+
+## This is adapted from [MetaSlot](https://github.com/lhj-lhj/MetaSlot)
+
+## Modification compare to original Metaslot:
+
+`\Config\config-metaslot\7-dinosaur-saycam-ViT_B16.py`: config file for metaslot-saycam experiment.
+`\eminorhan`: To use pretrained model on saycam, adapted from [this](https://github.com/eminorhan/silicon-menagerie).
 
 ## 📄 Paper  
+
 
 [**MetaSlot: Break Through the Fixed Number of Slots in Object-Centric Learning** — arXiv:2505.20772](https://arxiv.org/abs/2505.20772)  
 
