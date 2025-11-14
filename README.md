@@ -38,5 +38,5 @@ python train.py \
 
 ## Current porblems
 
-1. Visuliaztion could be worse when using larger max_slots.
-2. The visulization of slots not quite capture the specific objects in some samples.
+1. Visualiaztion could be worse when using larger max_slots.
+2. The visualization of slots not quite capture the specific objects in some samples.
